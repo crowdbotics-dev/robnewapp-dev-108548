@@ -9,7 +9,7 @@ const Untitled7 = () => {
       padding: 10,
       position: 'relative',
       flex: 1
-    }}><View style={styles.hMkGyaOe}></View><View style={styles.JFDfKApC}><View style={styles.kuqKXzOy}></View><View style={styles.QeIybPbE}></View><Text style={styles.cdWuCGXR}>Lorem ipsum…</Text><Text style={styles.NqPNrIYH}>Lorem ipsum…</Text></View></ScrollView>
+    }}><View style={styles.hMkGyaOe}></View><View style={styles.JFDfKApC}><View style={styles.kuqKXzOy}></View><View style={styles.QeIybPbE}></View><Text style={styles.cdWuCGXR}>Lorem ipsum…</Text><Text style={styles.NqPNrIYH}>{"sdad\u2026"}</Text></View></ScrollView>
     </SafeAreaView>;
 };
 
