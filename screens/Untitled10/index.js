@@ -31,7 +31,9 @@ const styles = StyleSheet.create({
     lineHeight: 16,
     fontSize: 14,
     borderRadius: 0,
-    letterSpacing: 2
+    letterSpacing: 2,
+    fontWeight: "900",
+    fontFamily: "Roboto"
   }
 });
 export default Untitled10;
