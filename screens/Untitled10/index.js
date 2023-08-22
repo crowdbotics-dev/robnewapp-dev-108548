@@ -28,9 +28,10 @@ const styles = StyleSheet.create({
   epsYJmPn: {
     width: 100,
     height: 50,
-    lineHeight: 14,
+    lineHeight: 16,
     fontSize: 14,
-    borderRadius: 0
+    borderRadius: 0,
+    letterSpacing: 2
   }
 });
 export default Untitled10;
