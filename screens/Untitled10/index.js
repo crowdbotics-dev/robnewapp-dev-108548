@@ -20,9 +20,10 @@ const styles = StyleSheet.create({
   cNcHESjr: {
     width: 100,
     height: 50,
-    lineHeight: 14,
-    fontSize: 14,
-    borderRadius: 0
+    lineHeight: 15,
+    fontSize: 13,
+    borderRadius: 0,
+    letterSpacing: 2
   },
   epsYJmPn: {
     width: 100,
