@@ -9,7 +9,7 @@ const Untitled6 = () => {
       padding: 10,
       position: 'relative',
       flex: 1
-    }}><View style={styles.udjmVywr}><Text style={styles.rVDBdwMb}>Lorem ipsum…</Text><Text style={styles.YavcklhY}>Lorem ipsum…</Text><View style={styles.AXMGeGYI}></View></View></ScrollView>
+    }}><View style={styles.udjmVywr}><Text style={styles.rVDBdwMb}>Lorem ipsum…</Text><Text style={styles.YavcklhY}>Lorem ipsum…</Text><View style={styles.AXMGeGYI}></View><Text style={styles.QGQcKNgw}>Lorem ipsum…</Text></View></ScrollView>
     </SafeAreaView>;
 };
 
@@ -48,6 +48,13 @@ const styles = StyleSheet.create({
     backgroundColor: "#E4E4E4",
     borderRadius: 0,
     color: "#777777"
+  },
+  QGQcKNgw: {
+    width: 100,
+    height: 50,
+    lineHeight: 14,
+    fontSize: 14,
+    borderRadius: 0
   }
 });
 export default Untitled6;
