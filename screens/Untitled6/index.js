@@ -9,7 +9,7 @@ const Untitled6 = () => {
       padding: 10,
       position: 'relative',
       flex: 1
-    }}><View style={styles.udjmVywr}><Text style={styles.rVDBdwMb}>Lorem ipsum…</Text><Text style={styles.YavcklhY}>Lorem ipsum…</Text></View></ScrollView>
+    }}><View style={styles.udjmVywr}><Text style={styles.rVDBdwMb}>Lorem ipsum…</Text><Text style={styles.YavcklhY}>Lorem ipsum…</Text><View style={styles.AXMGeGYI}></View></View></ScrollView>
     </SafeAreaView>;
 };
 
@@ -41,6 +41,13 @@ const styles = StyleSheet.create({
     lineHeight: 14,
     fontSize: 14,
     borderRadius: 0
+  },
+  AXMGeGYI: {
+    height: 60,
+    width: 140,
+    backgroundColor: "#E4E4E4",
+    borderRadius: 0,
+    color: "#777777"
   }
 });
 export default Untitled6;
