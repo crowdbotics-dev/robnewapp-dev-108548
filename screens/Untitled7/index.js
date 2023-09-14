@@ -35,7 +35,7 @@ const styles = StyleSheet.create({
   QeIybPbE: {
     height: 60,
     width: 140,
-    backgroundColor: "#60f431",
+    backgroundColor: "#3e6e2f",
     borderRadius: 0,
     color: "#777777"
   },
